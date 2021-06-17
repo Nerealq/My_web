@@ -17,5 +17,7 @@ About me -> Un apartat amb un poc d'informació sobre mi.
 
 Als laterals d'alguns apartats de la pàgina web es pot trobar una mini secció on hi ha imatges de dones molt importants del mon del cinema amb frases que han dit en algun moment de la seva trajectòria.
 
+Pel que fa al codi segueix una estructura HTML que es pot observar a la pàgina amb el seu header, la barra de navegació, els aprtats dels articles, la secció on estan les xarxes socials,la part lateral i el footer.
+
 He realitzat la pàgina web en anglès ja que em resulta més fàcil parlar sobre aquest tema i, a més  més podria arribar a més gent amb un llenguatge més unviersal. 
 
